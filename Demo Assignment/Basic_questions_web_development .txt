@@ -1,0 +1,68 @@
+1.What is HTML?
+
+-> HTML stands for Hypertext Markup Language.
+-> It is the standard markup language used to create and design web pages.
+-> HTML provides a set of tags and attributes that are used to structure the content of a web page, such as headings, paragraphs, links, images, and more.
+-> Browsers interpret HTML code to display web content to users.
+
+
+2.What is CSS?
+
+-> CSS stands for Cascading Style Sheets.
+-> It is a style sheet language used to describe the presentation of a document written in HTML or XML, including elements such as colors, layouts, fonts, and spacing.
+-> CSS allows web designers to control the appearance and layout of multiple web pages simultaneously by separating the content of the web page from its presentation.
+-> It works by selecting HTML elements and applying styles to them, either directly within the HTML document or externally in a separate CSS file.
+-> This separation of concerns makes web pages more flexible, efficient, and easier to maintain.
+
+
+
+3.What is the difference between front-end and back-end development?
+-> Front-end development and back-end development are two distinct aspects of web development that involve different technologies, skills, and responsibilities:
+
+i. Front-end Development:
+   - Front-end development refers to the part of web development that focuses on creating the user interface and experience of a website or web application.
+   - Front-end developers use languages such as HTML, CSS, and JavaScript to build the structure, style, and interactivity of web pages.
+   - They are responsible for designing and implementing the visual elements that users interact with, including layouts, navigation menus, forms, and buttons.
+   - Front-end developers often work closely with designers to ensure that the website or application has an attractive and intuitive user interface.
+   - Examples of front-end frameworks and libraries include React.js, AngularJS, and Vue.js.ii
+ii. Back-end Development:
+   - Back-end development involves building and maintaining the server-side of a website or web application.
+   - Back-end developers use languages such as Python, Ruby, PHP, Java, or JavaScript (Node.js) to write server-side code that handles data processing, database interactions, and server-side logic.
+   - They are responsible for implementing the server-side functionality that powers the dynamic aspects of a website, such as user authentication, data storage, and application logic.
+   - Back-end developers often work with databases like MySQL, PostgreSQL, MongoDB, or SQL Server to store and retrieve data from the server.
+   - They also deal with security concerns, performance optimization, and scalability issues related to the server-side of the application.
+   - Examples of back-end frameworks and platforms include Django (Python), Ruby on Rails (Ruby), Laravel (PHP), Spring (Java), and Express.js (Node.js).
+
+
+4.What is JavaScript?
+
+->JavaScript is a high-level, interpreted programming language primarily used to create interactive effects within web browsers. It is one of the core technologies of web development, along with HTML and CSS. JavaScript allows developers to add dynamic behavior to websites, such as responding to user interactions, manipulating the content and structure of web pages, and communicating with servers to fetch or send data asynchronously.
+
+Key features of JavaScript include:
+
+1. Client-side scripting: JavaScript code is executed on the client's browser, enabling dynamic content generation and interaction without the need for server-side processing.
+
+2. Event-driven programming: JavaScript allows developers to define event handlers that respond to user actions like clicks, mouse movements, keyboard input, and more.
+
+3. DOM manipulation: JavaScript can manipulate the Document Object Model (DOM), which represents the structure and content of an HTML document, allowing developers to dynamically modify the appearance and behavior of web pages.
+
+4. Asynchronous programming: JavaScript supports asynchronous programming through features like Promises and async/await, allowing developers to perform tasks such as fetching data from servers without blocking the execution of other code.
+
+5. Cross-platform compatibility: JavaScript is supported by all major web browsers, making it a versatile language for developing web applications that work across different platforms and devices.
+
+
+5.What is a responsive web design?
+
+->Responsive web design is an approach to web design and development that aims to create web pages that adapt and respond to the user's device and screen size, providing an optimal viewing experience across a wide range of devices, from desktop computers to smartphones and tablets.
+
+Key principles of responsive web design include:
+
+1. Flexible layouts: Designing web layouts using relative units such as percentages or ems instead of fixed units like pixels, allowing content to adapt fluidly to different screen sizes and orientations.
+
+2. Media queries: Using CSS media queries to apply different styles based on the characteristics of the user's device, such as screen width, resolution, and orientation. Media queries enable developers to create designs that adjust dynamically to accommodate various devices and screen sizes.
+
+3. Viewport meta tag: Using the viewport meta tag in HTML to control the width and scaling of the viewport, ensuring that web pages are displayed correctly on mobile devices and prevent issues like zooming or horizontal scrolling.
+
+4. Flexible images and media: Using CSS techniques such as max-width: 100% to ensure that images and media content resize proportionally to fit the width of the viewport, preventing them from overflowing or becoming distorted on smaller screens.
+
+5. Progressive enhancement: Building web pages with a focus on core content and functionality that is accessible to all users, and then enhancing the experience with additional features for users on devices that support them. This approach ensures that the website remains functional and usable across different devices and browsers.
